@@ -1,0 +1,28 @@
+<testdata>
+	<form>
+		<user acn= "01">
+			<firstname>John</firstname>
+			<lastname>Miller</lastname>
+			<zipcode>55112</zipcode>
+			<message>Test01</message>
+		</user>
+		<user acn= "02">
+			<firstname>Ted</firstname>
+			<lastname>Scot</lastname>
+			<zipcode>55414</zipcode>
+			<message>Test02</message>
+		</user>
+		<user acn= "03">
+			<firstname>Stephanie</firstname>
+			<lastname>Hudson</lastname>
+			<zipcode>20903</zipcode>
+			<message>Test03</message>
+		</user>
+		<user acn= "04">
+			<firstname>Robert</firstname>
+			<lastname>Smith</lastname>
+			<zipcode>20901</zipcode>
+			<message>Test04</message>
+		</user>
+	</form>
+</testdata>
